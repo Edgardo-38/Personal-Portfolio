@@ -87,6 +87,7 @@ ul, ol {
   /* the "-1" makes sure the background images shows up behind the webpage content.*/
   width: 100%;
   /* "100%" makes the image the full width of the webpage.*/
+  background-color: LightSalmon;
 }
 
 .img_right {
