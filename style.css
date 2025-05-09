@@ -36,7 +36,7 @@ img {
 }
 
 p {
-  background: black;
+  background: RosyBrown;
 }
 
 h1, h2, h3 {
@@ -74,7 +74,7 @@ ul, ol {
 }
 
 #bio {
-  background: black;
+  background: RosyBrown;
   margin: 0px;
   padding: 10px;
   text-align: center;
